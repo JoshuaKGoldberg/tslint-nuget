@@ -1,0 +1,5 @@
+node_modules
+tslint.?.*.*.nupkg
+
+# For those who prefer to use a local nuget.exe, rather than via PATH
+nuget.exe

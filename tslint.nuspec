@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>tslint</id>
+    <version>3.5.0</version>
+    <authors>palantir</authors>
+    <owners>joshuakgoldberg</owners>
+    <licenseUrl>https://github.com/palantir/tslint/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/palantir/tslint</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A static analysis linter for the TypeScript language.</description>
+    <tags>tslint</tags>
+  </metadata>
+  <files>
+    <file src="node_modules\**" target="tools" />
+  </files>
+</package>
