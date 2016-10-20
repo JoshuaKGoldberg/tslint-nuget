@@ -2,7 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>tslint</id>
-    <version>3.7.4</version>
+    <title>tslint</title>
+    <version>3.15.1</version>
     <authors>palantir</authors>
     <owners>joshuakgoldberg</owners>
     <licenseUrl>https://github.com/palantir/tslint/blob/master/LICENSE</licenseUrl>
