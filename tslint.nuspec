@@ -3,7 +3,7 @@
   <metadata>
     <id>tslint</id>
     <title>tslint</title>
-    <version>3.15.1</version>
+    <version>4.0.2</version>
     <authors>palantir</authors>
     <owners>joshuakgoldberg</owners>
     <licenseUrl>https://github.com/palantir/tslint/blob/master/LICENSE</licenseUrl>
