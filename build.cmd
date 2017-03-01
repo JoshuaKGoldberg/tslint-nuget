@@ -1,10 +1,10 @@
 @echo off
 
-echo npm uninstall tslint typescript
-call npm uninstall tslint typescript
+echo rd node_modules /Q /S
+call rd node_modules /Q /S
 
-echo npm install tslint typescript
-call npm install tslint typescript
+echo npm install --save tslint@latest typescript@latest
+call npm install --save tslint@latest typescript@latest
 
 echo nuget pack tslint.nuspec
 call nuget pack tslint.nuspec

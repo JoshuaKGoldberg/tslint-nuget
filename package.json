@@ -1,0 +1,21 @@
+{
+  "name": "tslint-nuget",
+  "description": "A quick utility to generate a NuGet package containing just Palantir's wonderful tslint and its dependencies.",
+  "version": "4.5.1",
+  "author": {
+    "name": "Josh Goldberg",
+    "email": "joshuakgoldberg@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:joshuakgoldberg/tslint-nuget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshuakgoldberg/tslint-nuget/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
+}
