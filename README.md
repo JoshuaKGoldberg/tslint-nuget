@@ -18,4 +18,4 @@ This will install the latest tslint and its dependencies locally, then use `tsli
 nuget push tslint.X.Y.Z.nupkg
 ```
 
-Also see [http://docs.nuget.org/Create/Creating-and-Publishing-a-Package](NuGet's docs).
+Also see [NuGet's docs](http://docs.nuget.org/Create/Creating-and-Publishing-a-Package).
